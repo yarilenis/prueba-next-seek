@@ -1,4 +1,4 @@
-# Tienda Joinnus
+# Prueba Catálogo
 
 React front boilerplate with Next.js + Redux + Bootstrap + Sass + Apollo + Jest for unit test and more.
 
